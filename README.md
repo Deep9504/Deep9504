@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Deepshikha 👋
 
-<!--
-**Deep9504/Deep9504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (React.js + Node.js)  
+🚀 2+ Years Experience building scalable applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Project
+
+### 🌍 Travekla – Travel Management App  
+👉 https://travekla.com  
+
+- Full-stack app using React, Node.js, MongoDB  
+- Secure authentication & booking system  
+- Responsive UI with real-world use case  
+
+---
+
+## 🛠 Tech Stack
+- React.js, JavaScript, Material UI  
+- Node.js, Express.js  
+- MongoDB, MySQL  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/deepshikha-singh-b261421a3
+- GitHub: https://github.com/Deep9504
