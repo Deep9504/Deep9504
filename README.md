@@ -1,7 +1,7 @@
 # Hi, I'm Deepshikha 👋
 
 💻 Full Stack Developer (React.js + Node.js)  
-🚀 2+ Years Experience building scalable applications  
+🚀 3+ Years Experience building scalable applications  
 
 ---
 
